@@ -1,0 +1,6 @@
+const smartphone = {
+    marca: "Apple",
+    modelo: "Iphone 11",
+    anoLancamento: "20 de setembro de 2019"
+};
+console.log (smartphone)
